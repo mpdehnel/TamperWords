@@ -1,7 +1,7 @@
 # TamperWords
-Allows users to verify the integrity of downloaded software easily, without having to know what a hash, or a command line is.
+#### Allows users to verify the integrity of downloaded software easily, without having to know what a hash, or a command line is.
 
-TamperWords, Martin Dehnel Jan 2015. GPLv2.
+### Martin Dehnel, Katriel Cohn-Gordon, Kevin Milner. Jan 2015. GPLv2.
 
   Inspired by talks from RWC 2015.
 
