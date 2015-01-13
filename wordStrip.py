@@ -96,6 +96,9 @@ if __name__ == "__main__":
     # Word list is 85983 in length at this point
     newWords = sorted(word for word in words if len(word) > 3 and len(word) < 9)
 
+    with open('words1.txt', 'w') as f1:
+        f1.write("\n".join(newWords))
+
     #do all-pairs check on distance
     todelete = len(words) - 2**16;
     print todelete
