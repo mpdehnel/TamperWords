@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+'''
+    TamperWords: wordStrip.
+    Martin Dehnel, Katriel Cohn-Gordon, Kevin Milner. Jan 2015. GPLv2.
+'''
+
 import sys
 import argparse
 

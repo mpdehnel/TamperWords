@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-''' TamperWords, Martin Dehnel Jan 2015. GPLv2.
+''' 
+  TamperWords: Martin Dehnel, Katriel Cohn-Gordon, Kevin Milner. Jan 2015. GPLv2.
   Inspired by talks from RWC 2015.
   Basic Idea: Users don't (and should have to) understand what a hash is, 
      or how to generate one of some downloaded software.
